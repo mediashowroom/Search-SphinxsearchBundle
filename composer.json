@@ -1,5 +1,5 @@
 {
-  "name": "search/sphinxsearch-bundle",
+  "name": "mediashowrooom/sphinxsearch-bundle",
   "type": "symfony-bundle",
   "description": "Sphinx search bundle for Symfony 2",
   "keywords": ["sphinx", "sphinxsearch", "symfony2"],
@@ -9,10 +9,15 @@
     {
       "name": "Ryan Rogers",
       "email": "ryan@timewasted.me"
+    },
+    {
+      "name": "Rene Poepperl",
+      "email": "r.poepperl@gmx.net"
     }
   ],
   "require": {
-    "php": ">=5.3.3"
+    "php": ">=5.3.3",
+    "symfony/symfony": "~2.8.0"
   },
   "autoload": {
     "psr-0": {

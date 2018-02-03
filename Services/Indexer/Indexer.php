@@ -2,7 +2,7 @@
 
 namespace Search\SphinxsearchBundle\Services\Indexer;
 
-use Assetic\Util\ProcessBuilder;
+use Symfony\Component\Process\ProcessBuilder;
 
 class Indexer
 {
